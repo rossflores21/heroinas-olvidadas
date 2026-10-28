@@ -7,7 +7,7 @@ const heroinesData = [
     "panel2Speech": "¡Los números pueden tejer diseños algebraicos tal como el telar de Jacquard teje flores y hojas!",
     "panel3Text": "En sus notas de 1843 publicó un algoritmo para calcular números de Bernoulli con la máquina analítica, y anticipó usos de la computación más allá del cálculo.",
     "panel4Speech": "Mi mente ve más allá de la simple aritmética; vislumbro el arte y la ciencia unidos en la computación.",
-    "image": "assets/ada-lovelace.png",
+    "image": "ada-lovelace.png",
     "sourceLabel": "Science Museum",
     "source": "https://blog.sciencemuseum.org.uk/ada-lovelace-visionary-of-the-computer-age/"
   },
@@ -18,7 +18,7 @@ const heroinesData = [
     "panel2Speech": "La nitidez de la Fotografía 51 revela la verdadera simetría helicoidal del ADN.",
     "panel3Text": "Sus estudios de difracción de rayos X, incluida la Fotografía 51 obtenida con Raymond Gosling, aportaron evidencia crucial para determinar la estructura del ADN.",
     "panel4Speech": "La ciencia exige paciencia absoluta ante la placa fotográfica; la verdad siempre se revela ante la observación rigurosa.",
-    "image": "assets/rosalind-franklin.png",
+    "image": "rosalind-franklin.png",
     "sourceLabel": "King’s College London",
     "source": "https://www.kcl.ac.uk/the-story-behind-photograph-51"
   },
@@ -29,7 +29,7 @@ const heroinesData = [
     "panel2Speech": "Plasmaré la fuerza y el valor en cada lienzo, desafiando las normas de mi época con claroscuro.",
     "panel3Text": "Maestra indiscutible del barroco, sus obras redefinieron el dramatismo visual y la perspectiva heroica.",
     "panel4Speech": "El arte no tiene género; tiene pulso, pasión y una verdad inquebrantable.",
-    "image": "assets/artemisia-gentileschi.png",
+    "image": "artemisia-gentileschi.png",
     "sourceLabel": "National Gallery",
     "source": "https://www.nationalgallery.org.uk/artists/artemisia-gentileschi"
   },
@@ -40,7 +40,7 @@ const heroinesData = [
     "panel2Speech": "Debes enseñar a tu espíritu a cuestionar el cosmos; comprender los astros es liberarse.",
     "panel3Text": "Matemática, astrónoma y filósofa neoplatónica, enseñó en Alejandría. Las fuentes antiguas relacionan sus enseñanzas con instrumentos como el astrolabio.",
     "panel4Speech": "Defiende tu derecho a pensar, porque pensar erradamente es mejor que no pensar en absoluto.",
-    "image": "assets/hipatia.png",
+    "image": "hipatia.png",
     "sourceLabel": "MacTutor · University of St Andrews",
     "source": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
   },
@@ -51,7 +51,7 @@ const heroinesData = [
     "panel2Speech": "Verifiquen los números del ordenador electrónico. Yo confío en las ecuaciones de transferencia orbital.",
     "panel3Text": "Matemática clave de la NASA cuyas trayectorias hicieron posible el éxito del Apolo 11 y los vuelos tripulados.",
     "panel4Speech": "Calculamos el camino hacia las estrellas con tiza, pizarra y una determinación implacable.",
-    "image": "assets/katherine-johnson.png",
+    "image": "katherine-johnson.png",
     "sourceLabel": "NASA",
     "source": "https://science.nasa.gov/people/katherine-johnson/"
   },
@@ -62,7 +62,7 @@ const heroinesData = [
     "panel2Speech": "Hemos descubierto el polonio y el radio. Aún queda mucho trabajo para estudiar sus propiedades.",
     "panel3Text": "Recibió el Nobel de Física en 1903 y el de Química en 1911. Fue la primera mujer en recibir un Nobel y la primera persona en recibir dos.",
     "panel4Speech": "Nada en la vida debe ser temido, solo comprendido. Ahora es el momento de comprender más.",
-    "image": "assets/marie-curie.png",
+    "image": "marie-curie.png",
     "sourceLabel": "Nobel Prize",
     "source": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
   },
@@ -73,7 +73,7 @@ const heroinesData = [
     "panel2Speech": "Hombres necios que acusáis a la mujer sin razón, sin ver que sois la ocasión de lo mismo que culpáis.",
     "panel3Text": "Fénix de América, escritora barroca excepcional y defensora incansable del derecho femenino al saber.",
     "panel4Speech": "Yo no estudio para saber más, sino para ser un poco menos ignorante.",
-    "image": "assets/sor-juana.png",
+    "image": "sor-juana.png",
     "sourceLabel": "Biblioteca Virtual Miguel de Cervantes",
     "source": "https://www.cervantesvirtual.com/portales/sor_juana_ines_de_la_cruz/"
   },
@@ -84,7 +84,7 @@ const heroinesData = [
     "panel2Speech": "Este sistema de modulación por salto de frecuencia evitará que las señales de los torpedos sean interferidas.",
     "panel3Text": "Actriz e inventora, desarrolló junto con George Antheil un sistema de salto de frecuencia patentado en 1942: un antecedente de las comunicaciones de espectro ensanchado.",
     "panel4Speech": "Las ideas bellas provienen tanto de la creatividad artística como de la invención técnica.",
-    "image": "assets/hedy-lamarr.png",
+    "image": "hedy-lamarr.png",
     "sourceLabel": "National Women’s History Museum",
     "source": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr"
   },
@@ -95,7 +95,7 @@ const heroinesData = [
     "panel2Speech": "Las formas geométricas y los colores vibrantes expresan verdades espirituales que el ojo físico aún no alcanza.",
     "panel3Text": "Pionera de la abstracción, comenzó en 1906 una serie de pinturas no figurativas. Su obra amplía la historia del surgimiento del arte abstracto.",
     "panel4Speech": "El futuro contemplará estas pinturas con otros ojos; el mundo guardará mi arte hasta que esté listo.",
-    "image": "assets/hilma-af-klint.png",
+    "image": "hilma-af-klint.png",
     "sourceLabel": "Hilma af Klint Foundation",
     "source": "https://hilmaafklint.se/about-hilma-af-klint/"
   },
@@ -106,7 +106,7 @@ const heroinesData = [
     "panel2Speech": "Miren cómo usa esa ramita como herramienta. Los primates también fabrican instrumentos para sobrevivir.",
     "panel3Text": "Primatóloga y antropóloga revolucionaria que transformó nuestra comprensión de la empatía animal y la conservación.",
     "panel4Speech": "Comprender a otros seres vivos puede inspirarnos a cuidarlos y a proteger los lugares que habitan.",
-    "image": "assets/jane-goodall.png",
+    "image": "jane-goodall.png",
     "sourceLabel": "Jane Goodall Institute",
     "source": "https://janegoodall.org/jane-goodalls-story/"
   }
